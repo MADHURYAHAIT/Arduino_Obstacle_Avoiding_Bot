@@ -1,4 +1,8 @@
-# Arduino_Obstacle_Avoiding_Bot
+# Arduino Obstacle Avoiding Bot :
+
+<h2> Here is the full source code of Arduino Bot.</h2>
+
+After several iterations and fine-tuning, the bot successfully stops if an object is closer than 15cm, takes a step back, checks left and right for obstacles using the ultrasonic sensor, and turns in the direction where the next obstacle's distance is greater.
 
 ![IMG_8116 copy](https://github.com/user-attachments/assets/cac2f01c-34d5-420e-b07e-9500f454c003)
 
